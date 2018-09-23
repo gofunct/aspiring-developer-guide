@@ -1,5 +1,6 @@
 # An Opinionated Guide for Aspiring Developers
 by: Coleman Word
+
 **There are many like it, but this one is mine**
 
 Table of Contents
