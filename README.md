@@ -2,14 +2,6 @@
 by: Coleman Word
 **There are many like it, but this one is mine**
 
-- [An Opinionated Guide for Aspiring Developers](#an-opinionated-guide-for-aspiring-developers)
-  * [Essential skills for every carreer path](#essential-skills-for-every-carreer-path)
-    + [Integrated Development Environments](#integrated-development-environments)
-    + [Version Control](#version-control)
-    + [Documentation](#documentation)
-    + [Experimentation](#experimentation)
-- [Choosing a Career Path](#choosing-a-career-path)
-
 When I first began my journey into software development, I was overwhelmed
 by the complexity of software development and the level of fragmentation 
 amongst common jobs in the market. 
@@ -61,6 +53,13 @@ This document is meant to highlight some of the advice and general information
 Please navigate to the statement that most descibes your current interests.
 
 
+- [An Opinionated Guide for Aspiring Developers](#an-opinionated-guide-for-aspiring-developers)
+  * [Essential skills for every carreer path](#essential-skills-for-every-carreer-path)
+    + [Integrated Development Environments](#integrated-development-environments)
+    + [Version Control](#version-control)
+    + [Documentation](#documentation)
+    + [Experimentation](#experimentation)
+- [Choosing a Career Path](#choosing-a-career-path)
   * [I am interested in designing websites](#i-am-interested-in-designing-websites)
     + [Overview](#overview)
     + [Career Forecast](#career-forecast)
@@ -103,6 +102,9 @@ Please navigate to the statement that most descibes your current interests.
     + [Programming Languages](#programming-languages-6)
     + [Certifications](#certifications-6)
     + [Resources](#resources-6)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 ## I am interested in designing websites
