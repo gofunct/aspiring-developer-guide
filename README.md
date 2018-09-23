@@ -16,11 +16,8 @@ Table of Contents
    * [Choosing a Career Path](#choosing-a-career-path)
       * [I am interested in designing user-interfaces](#i-am-interested-in-designing-user-interfaces)
       * [I am interested in programming business logic](#i-am-interested-in-programming-business-logic)
-      * [I am interested in systems &amp; processes](#i-am-interested-in-systems--processes)
       * [I am interested in data science](#i-am-interested-in-data-science)
-      * [I am interested in robotics](#i-am-interested-in-robotics)
       * [I am interested in hacking](#i-am-interested-in-hacking)
-      * [I just want to get my foot in the door while keeping my options open](#i-just-want-to-get-my-foot-in-the-door-while-keeping-my-options-open)
 
 When I first began my journey into software development, I was overwhelmed
 by the complexity of software development and the level of fragmentation 
@@ -293,108 +290,146 @@ learning the basics of javascript, HTML, and CSS since it is the most popular, i
 **Resources**
 
 * [Node.js](https://nodejs.org/en/)
-* [Node Playground]()
+* [Node Playground](https://www.katacoda.com/courses/nodejs/playground)
 * [Python](https://www.python.org/)
-* [Python-Playground]()
+* [Python-Playground](https://www.pythonanywhere.com/)
 * [Golang](https://golang.org/)
-* [Golang-Playground]()
+* [Golang-Playground](https://play.golang.org/)
 
 </p>
 </details>
 
 
-
-## I am interested in systems & processes
-
-* You're a natural problem-solver
-* You're less interested in programming and more interested in solving complex-problems
-
-<details><summary>show</summary>
-<p>
-
-**Overview**
-
-**Job Titles**
-
-**Average Salary**
-
-**Certifications**
-
-**Tips**
-
-**Resources**
-
-</p>
-</details>
 
 ## I am interested in data science
->> "Data is what we collect and store. It becomes information once we analyze it. It becomes 
-knowledge once we understand it."
+>> "Data is what we collect and store. It becomes information once we analyze it. It becomes knowledge once we understand it."
 
 * You've always been good at math
 * You've excelled in collegiate-level math classes
 * You're interested in artificial intelligence
-* You like 
+* You understand how data can be used to create insight into business processes
+
 <details><summary>show</summary>
 <p>
 
 **Overview**
 
+Data science is exploding right now. With the amount of data being produced at an exponential rate, companies need specialists that can turn "dark data" into actionable insights. A career in data science can also lead to machine learning and artificial intelligence as well. Computers can be used to analyze large datasets, perform tasks, and correct themselves based on the outcome of their behavior in relation to the desired outcome. Start with basic data analysis -> data engineering -> data science -> machine learning. This will take time.
+
 **Job Titles**
 
-**Average Salary**
+* Data Analyst
+* Data Engineer
+* Business Intelligence Developer
+* Data Scientist
+* Machine Learning Engineer
+
+**Average Salary: $60-$200,000**
+
+**Programming Languages**
+
+* Python
 
 **Certifications**
 
+* [Top 15](https://www.cio.com/article/3222879/certifications/15-data-science-certifications-that-will-pay-off.html)
 **Tips**
+
+* Your integrated development environment is now the Jupyter Notebook
+* Learn Numpy, Pandas, SQL, Scikit, and Matplotlib
+* You need a large amount of data to do data analytics/science
+* Social media APIs like Twitter(tweepy) are a good source of data
+* Stock Exchanges are a good source of data
+* Learn Tensorflow if you want to get into machine learning
+* Use Python 3 
+* Use Anaconda- package for python that includes everything you need to get started.
 
 **Resources**
 
+* [Colaboratory Notebook](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true)
+* [Numpy](https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/)
+* [Anaconda](https://www.anaconda.com/enterprise/?gclid=CjwKCAjw85zdBRB6EiwAov3RioX6LlRXDdamtUy229SGilN_oFWUVGxf-W5lwdUTk_xgrvBK4Y5ehRoCOLkQAvD_BwE)
+* [Tensorflow Tutorial](https://www.tensorflow.org/tutorials/)
+
 </p>
 </details>
 
 
-
-</p>
-</details>
 
 ## I am interested in hacking
+* You have a strong understanding of computer networking
+* You're patient
+* You're more interested in utilizing already developed"tools" as opposed to programming the tools themselves
+* You're manipulative
+
 <details><summary>show</summary>
 <p>
 
 **Overview**
+If you're interested in hacking, you'll want need to become extremely well-versed
+in computer networking. Generally, you will want to master certain tools that 
+are available to perform attacks on vulnerable networks. You should never perform attacks on real systems, rather, there are ways to setup vulnerable servers to 
+practice. There are many jobs in cybersecurity that will be available to you if
+you become fluent in computer networking and penetration testing. 
 
 **Job Titles**
 
-**Average Salary**
+* Ethical Hacker
+* Penetration Tester
+* Cybersecurity Analyst
+* Network Engineer
+* Systems Administrator
+
+**Average Salary: $100,000**
+
+**Programming Languages**
+
+* Python
+* Bash
+* Powershell
+
+**Tools**
+
+* Wireshark
+* Shodan
+* Metasploit
+* Nmap
 
 **Certifications**
 
+* Comptia Network +
+* Comptia Security +
+* Comptia PenTest +
+* Cisco Certified Network Associate Security
+
 **Tips**
 
+* Hacking is hard and takes patience
+* Hacking very often requires social engineering and/or physical proxemity to the target
+
+**Key Terms**
+
+* The OSI Model
+* Malware
+* Encryption
+* Tor
+* Social Engineering
+* Phishing
+* Root Kit
+* Remote Access Trojan
+* Ransomware
+* Crypto-malware
+
+
 **Resources**
+
+* [Comptia Certifications](https://certification.comptia.org/)
+* [Metasploit](https://www.metasploit.com/)
+* [Wireshark](https://www.wireshark.org/)
 
 </p>
 </details>
 
-## I just want to get my foot in the door while keeping my options open
-<details><summary>show</summary>
-<p>
-
-**Overview**
-
-**Job Titles**
-
-**Average Salary**
-
-**Certifications**
-
-**Tips**
-
-**Resources**
-
-</p>
-</details>
 
 
 ---
