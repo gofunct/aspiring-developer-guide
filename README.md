@@ -85,8 +85,8 @@ Version control is a system that records changes to a file or set of files over 
 
 **Resources**
 
-[Git Tutorial](https://guides.github.com/activities/hello-world/)
-[GitHub](https://github.com/)
+* [Git Tutorial](https://guides.github.com/activities/hello-world/)
+* [GitHub](https://github.com/)
 
 </p>
 </details>
@@ -259,16 +259,45 @@ learning the basics of javascript, HTML, and CSS since it is the most popular, i
 
 **Overview**
 
-**Job Titles**
 
-**Average Salary**
+**Job Titles**
+* Backend Engineer
+* API Developer
+* Software Developer
+
+**Average Salary: $100,000**
+
+**Programming Languages**
+
+* Python
+* Node.js
+* Golang
 
 **Certifications**
 
+
 **Tips**
+
+* Learn SQL(database language)
+* Understand what a REST API is
+* Learn node.js if you want to program web applications
+* Learn node.js if you want to become a "full stack" developer by just learning javascript
+* Learn python if you want to learn programming quickly
+* Learn python if you may want to transition into data science in the future
+* Learn golang if you want to develop API's
+* Learn golang if you are interested in "microservices"
+* Programming languages in descending order by market demand: node.js, python, golang
+* Programming languages in descending order by average salary: golang, python, node.js
+* Programming languages in descending order by future job growth: 3-way tie
 
 **Resources**
 
+* [Node.js](https://nodejs.org/en/)
+* [Node Playground]()
+* [Python](https://www.python.org/)
+* [Python-Playground]()
+* [Golang](https://golang.org/)
+* [Golang-Playground]()
 
 </p>
 </details>
@@ -325,26 +354,6 @@ knowledge once we understand it."
 </details>
 
 
-
-</p>
-</details>
-
-
-## I am interested in robotics
-<details><summary>show</summary>
-<p>
-
-**Overview**
-
-**Job Titles**
-
-**Average Salary**
-
-**Certifications**
-
-**Tips**
-
-**Resources**
 
 </p>
 </details>
