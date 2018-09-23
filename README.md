@@ -74,19 +74,6 @@ This document is meant to highlight some of the advice and general information
 
 **Please navigate to the statement that most descibes your current interests**
 
-* [Choosing a Career Path](#choosing-a-career-path)
-
-      * [I am interested in designing websites](#i-am-interested-in-designing-websites)
-
-      * [I am interested in the cloud](#i-am-interested-in-the-cloud)
-
-      * [I am interested in data science](#i-am-interested-in-data-science)
-
-      * [I am interested in artificial intelligence](#i-am-interested-in-artificial-intelligence)
-
-      * [I am interested in robotics](#i-am-interested-in-robotics)
-      
-      * [I am interested in hacking](#i-am-interested-in-hacking)
 
 ## I am interested in designing websites
 <details><summary>show</summary>
