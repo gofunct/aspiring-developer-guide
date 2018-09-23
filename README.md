@@ -225,9 +225,9 @@ it.
 
 **Certifications**
 
-[Lambda School](https://lambdaschool.com/courses/cs/web/)
-[Galvanize](https://www.galvanize.com/denver-platte/javascript-accelerated)
-[Pluralsight](https://www.pluralsight.com/paths/javascript)
+* [Lambda School](https://lambdaschool.com/courses/cs/web/)
+* [Galvanize](https://www.galvanize.com/denver-platte/javascript-accelerated)
+* [Pluralsight](https://www.pluralsight.com/paths/javascript)
 
 **Tips**
 
