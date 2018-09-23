@@ -9,7 +9,7 @@ Table of Contents
    * [An Opinionated Guide for Aspiring Developers](#an-opinionated-guide-for-aspiring-developers)
    * [Table of Contents](#table-of-contents)
    * [Essential skills for every carreer path](#essential-skills-for-every-carreer-path)
-         * [Integrated Development Environments](#integrated-development-environments)
+      * [Integrated Development Environments](#integrated-development-environments)
       * [Version Control](#version-control)
       * [Documentation](#documentation)
       * [Experimentation](#experimentation)
@@ -45,7 +45,7 @@ Start using the following tools and technologies as soon as possible. They are t
 will make developing your projects much easier and should be thought of as supplements to 
 your development workflow.
 
-### Integrated Development Environments
+## Integrated Development Environments
 
 <details><summary>show</summary>
 <p>
