@@ -244,9 +244,9 @@ learning the basics of javascript, HTML, and CSS since it is the most popular, i
 ## I am interested in programming business logic
 >> "Why do we never have time to do it right, but always have time to over?"
 
-**Difficulty: 3/5**
+**Difficulty: 4/5**
 
-**Timeline: 6 months**
+**Timeline: 1 year**
 
 * You're a natural problem solver
 * You're incredibly logical
@@ -306,6 +306,10 @@ learning the basics of javascript, HTML, and CSS since it is the most popular, i
 ## I am interested in data science
 >> "Data is what we collect and store. It becomes information once we analyze it. It becomes knowledge once we understand it."
 
+**Difficulty: 4/5**
+
+**Timeline: 1 Year**
+
 * You've always been good at math
 * You've excelled in collegiate-level math classes
 * You're interested in artificial intelligence
@@ -335,6 +339,7 @@ Data science is exploding right now. With the amount of data being produced at a
 **Certifications**
 
 * [Top 15](https://www.cio.com/article/3222879/certifications/15-data-science-certifications-that-will-pay-off.html)
+
 **Tips**
 
 * Your integrated development environment is now the Jupyter Notebook
@@ -360,7 +365,11 @@ Data science is exploding right now. With the amount of data being produced at a
 
 ## I am interested in hacking
 >> "The Internet is a worldwide platform for sharing information. It is a community of common interests. No country is immune to such global challenges as cybercrime, hacking, and invasion of privacy.
-Read more at: https://www.brainyquote.com/quotes/lu_wei_763161?src=t_hacking"
+
+
+**Difficulty: 5/5**
+
+**Timeline: 1 year**
 
 * You have a strong understanding of computer networking
 * You're patient
