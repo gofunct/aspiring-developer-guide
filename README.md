@@ -242,7 +242,7 @@ learning the basics of javascript, HTML, and CSS since it is the most popular, i
 </details>
 
 ## I am interested in programming business logic
->> "Why do we never have time to do it right, but always have time to DO IT OVER?"
+>> "Why do we never have time to do it right, but always have time to over?"
 
 **Difficulty: 3/5**
 
