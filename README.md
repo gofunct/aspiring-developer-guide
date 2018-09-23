@@ -52,6 +52,7 @@ your development workflow.
 
 **Overview**
 
+
 An integrated development environment is an application you can download onto your 
 PC for actively developing your projects. They generally have many features like 
 an integrated terminal, file organization, debugging, and extensions that can help you
@@ -73,14 +74,17 @@ develop clean code faster.
 <p>
 
 **Overview**
+
 Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. The most popular tool for code version control is Git. A Git repository is where you will keep the files that make up your application.
 **Tips**
+
 * Get a github account
 * Keep all your projects in seperate git repositories
 * Master the git cli
 * Use GitHub as a search engine to explore projects- A good source for inspiration.
 
 **Resources**
+
 [Git Tutorial](https://guides.github.com/activities/hello-world/)
 [GitHub](https://github.com/)
 
@@ -92,6 +96,7 @@ Version control is a system that records changes to a file or set of files over 
 <p>
 
 **Overview**
+
 Once you have a Github account set up, it will be essential to create documentation
 for your projects/code. This is done by creating a README.md file in the root of the project
 folder. The file extension for README is generally markdown. Markdown is a markup language that
@@ -99,6 +104,7 @@ allows you quickly format documents and insert elements like headings, lists, co
 more. 
 
 **Tips**
+
 * Markdown is easy, take a day or two to learn it
 * Creating documentation is a good way to learn- Document every step of your development workflow so that
 you have a very clear understanding of what it is you're doing.
@@ -107,6 +113,7 @@ you have a very clear understanding of what it is you're doing.
 * Code without documentation is useless
 
 **Resources**
+
 * [Markdwon Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 * [Markdown Newtab](https://chrome.google.com/webstore/detail/markdown-new-tab/demppioeofcekpjcnlkmdjbabifjnokj?hl=en)
 
@@ -118,6 +125,7 @@ you have a very clear understanding of what it is you're doing.
 <p>
 
 **Overview**
+
 Once you're ready to start programming, you'll immediately start wondering where your code is 
 supposed to run. Programs in development are generally run on your personal PC, while finished
 projects are generally run on dedicated servers. A problem many developers encounter is "My code runs
@@ -127,6 +135,7 @@ move your files to a server, the dependencies are no longer in place.
 
 To solve this problem, I recommend using a portable sandbox environment on your PC so that you can 
 transfer your project AND all of it's dependencies to other computers. 
+
 **Tips**
 * Learn and use Docker to stage your programs. 
 * Docker has created a paradigm shift within the industry and is very popular
@@ -137,6 +146,7 @@ transfer your project AND all of it's dependencies to other computers.
 * This will drastically improve your marketability in the application process
 
 **Resources**
+
 * [Getting Started](https://docs.docker.com/get-started/)
 * [DockerHub](https://hub.docker.com/)
 * [Interactive Tutorials](https://www.katacoda.com/courses/docker)
@@ -168,7 +178,9 @@ will magically deploy your code so you can focus on strictly programming.
 
 
 ## I am interested in designing user-interfaces
+
 **Difficulty: 3/5**
+
 **Timeline: 6 months**
 
 * You're creative
@@ -197,6 +209,7 @@ it. It is popular because anyone can download the application and immediately st
 it.
 
 **Job Titles**
+
  * UI Designer
  * UX designer
  * Front-end Developer
@@ -205,11 +218,13 @@ it.
 **Average Salary: $85,000**
 
 **Programming Languages**
+
 * HTML 
 * CSS
 * Javascript
 
 **Certifications**
+
 [Lambda School](https://lambdaschool.com/courses/cs/web/)
 [Galvanize](https://www.galvanize.com/denver-platte/javascript-accelerated)
 [Pluralsight](https://www.pluralsight.com/paths/javascript)
@@ -229,7 +244,9 @@ learning the basics of javascript, HTML, and CSS since it is the most popular, i
 </details>
 
 ## I am interested in programming business logic
+
 **Difficulty: 3/5**
+
 **Timeline: 6 months**
 
 * You're a natural problem solver
