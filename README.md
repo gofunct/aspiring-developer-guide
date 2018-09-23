@@ -117,6 +117,11 @@ it.
 * CSS
 * Javascript
 
+**Certifications**
+[Lambda School](https://lambdaschool.com/courses/cs/web/)
+[Galvanize](https://www.galvanize.com/denver-platte/javascript-accelerated)
+[Pluralsight](https://www.pluralsight.com/paths/javascript)
+
 **Tips**
 
 There are many "flavors" of javascript. I'd highly recommend learning the framework "React" after
@@ -124,14 +129,17 @@ learning the basics of javascript, HTML, and CSS since it is the most popular, i
 
 **Resources**
 
-[HTML & CSS Course](https://www.udemy.com/html-tutorial/)
-[Playground](https://stackblitz.com/)
-[React Javascript](https://reactjs.org/)
+* [HTML & CSS Course](https://www.udemy.com/html-tutorial/)
+* [Playground](https://stackblitz.com/)
+* [React Javascript](https://reactjs.org/)
 
 </p>
 </details>
 
-## I am interested in automation
+## I am interested in programming business logic
+**Difficulty: 3/5**
+**Timeline: 6 months**
+
 * You're a natural problem solver
 * You're incredibly logical
 * You want to learn how to program
@@ -140,6 +148,17 @@ learning the basics of javascript, HTML, and CSS since it is the most popular, i
 <details><summary>show</summary>
 <p>
 
+**Overview**
+
+**Job Titles**
+
+**Average Salary**
+
+**Certifications**
+
+**Tips**
+
+**Resources**
 
 
 </p>
@@ -155,6 +174,17 @@ learning the basics of javascript, HTML, and CSS since it is the most popular, i
 <details><summary>show</summary>
 <p>
 
+**Overview**
+
+**Job Titles**
+
+**Average Salary**
+
+**Certifications**
+
+**Tips**
+
+**Resources**
 
 </p>
 </details>
@@ -170,18 +200,21 @@ knowledge once we understand it."
 <details><summary>show</summary>
 <p>
 
+**Overview**
+
+**Job Titles**
+
+**Average Salary**
+
+**Certifications**
+
+**Tips**
+
+**Resources**
 
 </p>
 </details>
 
-
-
-</p>
-</details>
-
-## I am interested in artificial intelligence
-<details><summary>show</summary>
-<p>
 
 
 </p>
@@ -192,6 +225,17 @@ knowledge once we understand it."
 <details><summary>show</summary>
 <p>
 
+**Overview**
+
+**Job Titles**
+
+**Average Salary**
+
+**Certifications**
+
+**Tips**
+
+**Resources**
 
 </p>
 </details>
@@ -200,6 +244,36 @@ knowledge once we understand it."
 <details><summary>show</summary>
 <p>
 
+**Overview**
+
+**Job Titles**
+
+**Average Salary**
+
+**Certifications**
+
+**Tips**
+
+**Resources**
+
+</p>
+</details>
+
+## I just want to get my foot in the door while keeping my options open
+<details><summary>show</summary>
+<p>
+
+**Overview**
+
+**Job Titles**
+
+**Average Salary**
+
+**Certifications**
+
+**Tips**
+
+**Resources**
 
 </p>
 </details>
