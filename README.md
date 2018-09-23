@@ -175,6 +175,7 @@ will magically deploy your code so you can focus on strictly programming.
 
 
 ## I am interested in designing user-interfaces
+>> “Rule of thumb for UX: More options, more problems.”
 
 **Difficulty: 3/5**
 
@@ -241,6 +242,7 @@ learning the basics of javascript, HTML, and CSS since it is the most popular, i
 </details>
 
 ## I am interested in programming business logic
+>> "Why do we never have time to do it right, but always have time to DO IT OVER?"
 
 **Difficulty: 3/5**
 
@@ -357,6 +359,9 @@ Data science is exploding right now. With the amount of data being produced at a
 
 
 ## I am interested in hacking
+>> "The Internet is a worldwide platform for sharing information. It is a community of common interests. No country is immune to such global challenges as cybercrime, hacking, and invasion of privacy.
+Read more at: https://www.brainyquote.com/quotes/lu_wei_763161?src=t_hacking"
+
 * You have a strong understanding of computer networking
 * You're patient
 * You're more interested in utilizing already developed"tools" as opposed to programming the tools themselves
